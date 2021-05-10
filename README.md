@@ -70,7 +70,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraXNetwork/AuraXMusicBot.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kumar-music-vcpb/Aryadeep_raj_VC.git)
 
 ### StringSession
 
@@ -89,12 +89,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - `/resume` to resume the playback. 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
 
-## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
 
 ## Credits
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
